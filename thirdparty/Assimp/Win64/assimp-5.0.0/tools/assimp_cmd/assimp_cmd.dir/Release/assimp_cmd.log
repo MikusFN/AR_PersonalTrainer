@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win64/assimp-5.0.0/tools/assimp_cmd/CMakeLists.txt
+  CompareDump.cpp
+  ImageExtractor.cpp
+  Main.cpp
+  WriteDumb.cpp
+  Info.cpp
+  Export.cpp
+  assimp_cmd.vcxproj -> D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win64\assimp-5.0.0\bin\Release\assimp.exe

@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0/cmake-modules/FindRT.cmake
+D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0/code/CMakeLists.txt
+D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake
+D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/cmake-3.17.2-win64-x64/share/cmake-3.17/Modules/FindPackageMessage.cmake

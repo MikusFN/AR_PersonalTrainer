@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\CMakeFiles\06fed34ed4198fdaf8368bb7e9754eec\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1BDFBBB8-E3A2-3B4C-BC92-500046D69179}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1859 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\CApi\CInterfaceIOWrapper.cpp">
+      <Filter>CApi</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\ZipArchiveIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\SplitByBoneCountProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\scene.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\CreateAnimMesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\simd.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\CApi\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\EmbedTexturesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\DropFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ScaleProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\GenBoundingBoxesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Material\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\STEPParser\STEPFileReader.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\STEPParser\STEPFileEncoding.cpp">
+      <Filter>STEPParser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\AMF\AMFImporter.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\AMF\AMFImporter_Geometry.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\AMF\AMFImporter_Material.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\AMF\AMFImporter_Postprocess.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3DS\3DSConverter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3DS\3DSLoader.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\AC\ACLoader.cpp">
+      <Filter>AC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\ASE\ASELoader.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\ASE\ASEParser.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assbin\AssbinLoader.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\B3D\B3DImporter.cpp">
+      <Filter>B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\BVH\BVHLoader.cpp">
+      <Filter>BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Collada\ColladaLoader.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Collada\ColladaParser.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\DXF\DXFLoader.cpp">
+      <Filter>DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\CSM\CSMLoader.cpp">
+      <Filter>CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\HMP\HMPLoader.cpp">
+      <Filter>HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Irr\IRRMeshLoader.cpp">
+      <Filter>IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Irr\IRRShared.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Irr\IRRLoader.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\LWO\LWOAnimation.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\LWO\LWOBLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\LWO\LWOLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\LWO\LWOMaterial.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\LWS\LWSLoader.cpp">
+      <Filter>LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD2\MD2Loader.cpp">
+      <Filter>MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD3\MD3Loader.cpp">
+      <Filter>MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD5\MD5Loader.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD5\MD5Parser.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MDC\MDCLoader.cpp">
+      <Filter>MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MDL\MDLLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MDL\MDLMaterialLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\NFF\NFFLoader.cpp">
+      <Filter>NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\NDO\NDOLoader.cpp">
+      <Filter>NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\OFF\OFFLoader.cpp">
+      <Filter>OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Obj\ObjFileImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Obj\ObjFileMtlImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Obj\ObjFileParser.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ogre\OgreImporter.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ogre\OgreStructs.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ogre\OgreBinarySerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ogre\OgreXmlSerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ogre\OgreMaterial.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\OpenGEX\OpenGEXImporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ply\PlyLoader.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ply\PlyParser.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MS3D\MS3DLoader.cpp">
+      <Filter>MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\COB\COBLoader.cpp">
+      <Filter>COB</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderLoader.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderDNA.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderScene.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderModifier.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderBMesh.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderTessellator.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderCustomData.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCLoader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCReaderGen1_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCReaderGen2_2x3.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCUtil.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCGeometry.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCMaterial.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCProfile.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCCurve.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCBoolean.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCOpenings.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\XGL\XGLLoader.cpp">
+      <Filter>XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXImporter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXParser.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXConverter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXDocument.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXProperties.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXMeshGeometry.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXMaterial.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXModel.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXAnimation.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXNodeAttribute.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXDeformer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXBinaryTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXDocumentUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Q3D\Q3DLoader.cpp">
+      <Filter>Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Q3BSP\Q3BSPFileParser.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Q3BSP\Q3BSPFileImporter.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Raw\RawLoader.cpp">
+      <Filter>RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\SIB\SIBImporter.cpp">
+      <Filter>SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\SMD\SMDLoader.cpp">
+      <Filter>SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\STL\STLLoader.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Terragen\TerragenLoader.cpp">
+      <Filter>TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Unreal\UnrealLoader.cpp">
+      <Filter>3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X\XFileImporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X\XFileParser.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Geometry2D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Geometry3D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Group.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Light.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Metadata.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Networking.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Postprocess.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Rendering.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Shape.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Texturing.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\FIReader.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DVocabulary.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF\glTFCommon.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF\glTFImporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF2\glTF2Importer.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3MF\D3MFImporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3MF\D3MFOpcPackage.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MMD\MMDImporter.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MMD\MMDPmxParser.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\StepFile\StepFileImporter.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\StepFile\StepFileGen1.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\StepFile\StepFileGen2.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\StepFile\StepFileGen3.cpp">
+      <Filter>STEP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3DS\3DSExporter.cpp">
+      <Filter>3DS_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assbin\AssbinExporter.cpp">
+      <Filter>ASSBIN_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assxml\AssxmlExporter.cpp">
+      <Filter>ASSXML_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Collada\ColladaExporter.cpp">
+      <Filter>COLLADA_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Obj\ObjExporter.cpp">
+      <Filter>OBJ_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\OpenGEX\OpenGEXExporter.cpp">
+      <Filter>OPENGEX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ply\PlyExporter.cpp">
+      <Filter>PLY_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXExporter.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXExportNode.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXExportProperty.cpp">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\STL\STLExporter.cpp">
+      <Filter>STL_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X\XFileExporter.cpp">
+      <Filter>X_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DExporter.cpp">
+      <Filter>X3D_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF\glTFExporter.cpp">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF2\glTF2Exporter.cpp">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3MF\D3MFExporter.cpp">
+      <Filter>3MF_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assjson\cencode.c">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assjson\json_exporter.cpp">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assjson\mesh_splitter.cpp">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Step\StepExporter.cpp">
+      <Filter>STEP_EXPORTER</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\unzip\ioapi.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\unzip\unzip.c">
+      <Filter>Contrib\unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\clipper\clipper.cpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\code\Value.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\code\OpenDDLStream.cpp">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcArithmeticCodec.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcDynamicVectorDecoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcDynamicVectorEncoder.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcTools.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcTriangleFans.cpp">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zip\src\zip.c">
+      <Filter>ziplib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\CApi\CInterfaceIOWrapper.h">
+      <Filter>CApi</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\PolyTools.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\SplitByBoneCountProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\simd.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\DefaultLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\LogStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Logger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\NullLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Common\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\BlobIOSystem.h">
+      <Filter>Exporter</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\EmbedTexturesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\DropFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\ScaleProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\PostProcessing\GenBoundingBoxesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Material\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\STEPParser\STEPFileReader.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\STEPParser\STEPFileEncoding.h">
+      <Filter>STEPParser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\AMF\AMFImporter.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\AMF\AMFImporter_Macro.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\AMF\AMFImporter_Node.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3DS\3DSHelper.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3DS\3DSLoader.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\AC\ACLoader.h">
+      <Filter>AC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\ASE\ASELoader.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\ASE\ASEParser.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assbin\AssbinLoader.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\B3D\B3DImporter.h">
+      <Filter>B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\BVH\BVHLoader.h">
+      <Filter>BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Collada\ColladaHelper.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Collada\ColladaLoader.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Collada\ColladaParser.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\DXF\DXFLoader.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\DXF\DXFHelper.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\CSM\CSMLoader.h">
+      <Filter>CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\HMP\HMPFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\HMP\HMPLoader.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\HMP\HalfLifeFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Irr\IRRMeshLoader.h">
+      <Filter>IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Irr\IRRShared.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Irr\IRRLoader.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\LWO\LWOAnimation.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\LWO\LWOFileData.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\LWO\LWOLoader.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\LWS\LWSLoader.h">
+      <Filter>LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD2\MD2FileData.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD2\MD2Loader.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD2\MD2NormalTable.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD3\MD3FileData.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD3\MD3Loader.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD5\MD5Loader.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MD5\MD5Parser.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MDC\MDCFileData.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MDC\MDCLoader.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MDC\MDCNormalTable.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MDL\MDLDefaultColorMap.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MDL\MDLFileData.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MDL\MDLLoader.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\NFF\NFFLoader.h">
+      <Filter>NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\NDO\NDOLoader.h">
+      <Filter>NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\OFF\OFFLoader.h">
+      <Filter>OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Obj\ObjFileData.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Obj\ObjFileImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Obj\ObjFileMtlImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Obj\ObjFileParser.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Obj\ObjTools.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ogre\OgreImporter.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ogre\OgreStructs.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ogre\OgreParsingUtils.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ogre\OgreBinarySerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ogre\OgreXmlSerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\OpenGEX\OpenGEXImporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\OpenGEX\OpenGEXStructs.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ply\PlyLoader.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ply\PlyParser.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MS3D\MS3DLoader.h">
+      <Filter>MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\COB\COBLoader.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\COB\COBScene.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderLoader.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderDNA.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderDNA.inl">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderScene.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderSceneGen.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderIntermediate.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderModifier.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderBMesh.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderTessellator.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Blender\BlenderCustomData.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCLoader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCReaderGen_2x3.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\IFC\IFCUtil.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\XGL\XGLLoader.h">
+      <Filter>XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXCompileConfig.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXImporter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXParser.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXTokenizer.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXImportSettings.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXConverter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXUtil.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXDocument.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXProperties.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXMeshGeometry.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXCommon.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Q3D\Q3DLoader.h">
+      <Filter>Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Q3BSP\Q3BSPFileData.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Q3BSP\Q3BSPFileParser.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Q3BSP\Q3BSPFileImporter.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Raw\RawLoader.h">
+      <Filter>RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\SIB\SIBImporter.h">
+      <Filter>SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\SMD\SMDLoader.h">
+      <Filter>SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\STL\STLLoader.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Terragen\TerragenLoader.h">
+      <Filter>TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Unreal\UnrealLoader.h">
+      <Filter>3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X\XFileHelper.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X\XFileImporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X\XFileParser.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Macro.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DImporter_Node.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\FIReader.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF\glTFCommon.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF\glTFAsset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF\glTFAsset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF\glTFAssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF\glTFAssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF\glTFImporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF2\glTF2Asset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF2\glTF2Asset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF2\glTF2AssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF2\glTF2AssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF2\glTF2Importer.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3MF\D3MFImporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3MF\D3MFOpcPackage.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3MF\3MFXmlTags.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MMD\MMDCpp14.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MMD\MMDImporter.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MMD\MMDPmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MMD\MMDPmxParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\MMD\MMDVmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Step\STEPFile.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\StepFile\StepFileImporter.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Importer\StepFile\StepReaderGen.h">
+      <Filter>STEP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3DS\3DSExporter.h">
+      <Filter>3DS_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assbin\AssbinExporter.h">
+      <Filter>ASSBIN_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assxml\AssxmlExporter.h">
+      <Filter>ASSXML_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Collada\ColladaExporter.h">
+      <Filter>COLLADA_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Obj\ObjExporter.h">
+      <Filter>OBJ_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\OpenGEX\OpenGEXExporter.h">
+      <Filter>OPENGEX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Ply\PlyExporter.h">
+      <Filter>PLY_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXExporter.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXExportNode.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\FBX\FBXExportProperty.h">
+      <Filter>FBX_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\STL\STLExporter.h">
+      <Filter>STL_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X\XFileExporter.h">
+      <Filter>X_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\X3D\X3DExporter.hpp">
+      <Filter>X3D_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF\glTFExporter.h">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\glTF2\glTF2Exporter.h">
+      <Filter>GLTF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\3MF\D3MFExporter.h">
+      <Filter>3MF_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assjson\cencode.h">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Assjson\mesh_splitter.h">
+      <Filter>ASSJSON_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\Step\StepExporter.h">
+      <Filter>STEP_EXPORTER</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\irrXMLWrapper.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\unzip\crypt.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\unzip\ioapi.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\unzip\unzip.h">
+      <Filter>Contrib\unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Contrib\Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\clipper\clipper.hpp">
+      <Filter>Contrib\Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\include\openddlparser\OpenDDLStream.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>Contrib\openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcAdjacencyInfo.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcArithmeticCodec.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcBinaryStream.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcCommon.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcDVEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcDynamicVectorDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcDynamicVectorEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcDynamicVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcFIFO.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcIndexedFaceSet.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcIndexedFaceSet.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcSC3DMCDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcSC3DMCDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcSC3DMCEncodeParams.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcSC3DMCEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcSC3DMCEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcTimer.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcTriangleFans.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcTriangleListDecoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcTriangleListDecoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcTriangleListEncoder.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcTriangleListEncoder.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcVector.h">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\Open3DGC\o3dgcVector.inl">
+      <Filter>Contrib\open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zip\src\miniz.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zip\src\zip.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\aabb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\ai_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\color4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\color4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\cfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\material.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\matrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\matrix3x3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\matrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\matrix4x4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\pbrmaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\postprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\metadata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\vector2.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\vector3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\cimport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\importerdesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Importer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\ProgressHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\IOStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\IOSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\cexport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Exporter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\DefaultIOStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\DefaultIOSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\ZipArchiveIOSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\SceneCombiner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\fast_atof.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\qnan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\BaseImporter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\MemoryIOWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\ParsingUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\StreamReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\StreamWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\StringComparison.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\StringUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\SGSpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\GenericProperty.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\SpatialSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\SkeletonMeshBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\SmoothingGroups.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\SmoothingGroups.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\StandardShapes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\RemoveComments.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Subdivision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\LineSplitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\TinyFormatter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Profiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\LogAux.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\XMLTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\IOStreamBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\CreateAnimMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\MathFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Macros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Exceptional.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\ByteSwapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code\res\assimp.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3D">
+      <UniqueIdentifier>{986BDA96-23FD-3EB5-8453-A01D53D753F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS">
+      <UniqueIdentifier>{CD4A313A-1E23-37C4-B229-FECE6D4FE2CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS_EXPORTER">
+      <UniqueIdentifier>{E610232C-1C37-361C-824B-C7BFBABBC122}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF">
+      <UniqueIdentifier>{EB145F8D-6B0E-3039-8CDD-50F25CB989DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF_EXPORTER">
+      <UniqueIdentifier>{D7DA30BD-DABF-3222-95BC-96139ADDD108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AC">
+      <UniqueIdentifier>{8E1A7E58-BF01-3AFF-BB0A-6E0E3FC33B95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AMF">
+      <UniqueIdentifier>{D20E6F01-50C1-3E67-82B4-6113706FBAC6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASE">
+      <UniqueIdentifier>{02709E67-879D-3868-A789-11C3BEF37F73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN">
+      <UniqueIdentifier>{76A53ABF-2949-3529-A98A-E5F111F15E9C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN_EXPORTER">
+      <UniqueIdentifier>{93A27DBB-36C1-3A78-9E20-A4EE59658279}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSJSON_EXPORTER">
+      <UniqueIdentifier>{E20A18CD-0A2A-3496-A67D-11756D5DB32B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSXML_EXPORTER">
+      <UniqueIdentifier>{15FFA429-C0A3-3B51-A953-05E82BA667F9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B3D">
+      <UniqueIdentifier>{CAB6303C-A7CD-3B24-9193-E1A6B26CD1A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BLEND">
+      <UniqueIdentifier>{E11BB821-D9C3-3AC6-868D-93CC2F693976}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BVH">
+      <UniqueIdentifier>{19171D45-DB74-3AD8-8A58-481F1DD16469}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CApi">
+      <UniqueIdentifier>{1FD33275-7A09-3981-BD38-2D1B6F57AB54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COB">
+      <UniqueIdentifier>{6E9007A4-60AD-37A8-9591-C81E937B6E1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA">
+      <UniqueIdentifier>{DE5DAA57-7A97-3CDB-B307-B8436BF0CDFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA_EXPORTER">
+      <UniqueIdentifier>{93805684-18A1-35DA-B127-3001A797769D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM">
+      <UniqueIdentifier>{2314F71C-C141-3279-9C09-480F5376A48D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{5A650EE1-337C-3860-8A6A-71184AB6691C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{16D769C7-75A1-3888-8C47-7D6DFB47A6A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib">
+      <UniqueIdentifier>{5DB36D38-DE83-3248-949A-5A90C65FE4A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Clipper">
+      <UniqueIdentifier>{D999083C-F96B-3347-A916-99435816507B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\Poly2Tri">
+      <UniqueIdentifier>{220BEE5D-A4E5-3CA7-AE34-35CF42FDC6B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\open3dgc">
+      <UniqueIdentifier>{250D0E32-2F99-32A4-976B-CEA891412B46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\openddl_parser">
+      <UniqueIdentifier>{89239A16-5096-3E68-9C7C-15D42C63447D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Contrib\unzip">
+      <UniqueIdentifier>{C42D5377-B634-3A78-8ABF-A396E1C5F911}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXF">
+      <UniqueIdentifier>{0F74B7CB-DF06-33BC-ACAE-7F990ED38D69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{752D95E4-6AE8-3272-8AD3-2D3ED2A7C1FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX">
+      <UniqueIdentifier>{E91CFE5E-08B6-39A2-B800-833C19CB0FA1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX_EXPORTER">
+      <UniqueIdentifier>{6684065E-4B6E-3C77-8809-B1531690F2CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF">
+      <UniqueIdentifier>{A422DDE1-D9B1-3CB2-962D-35A7250775E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF_EXPORTER">
+      <UniqueIdentifier>{7C5415AC-9E91-3637-BC68-872748B3C20E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HMP">
+      <UniqueIdentifier>{88B3DAB4-6362-38E0-A090-1438E7353D80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E23A4EAB-9355-38A8-BA70-FF97FECB363D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFC">
+      <UniqueIdentifier>{85B4C0B6-9407-393F-B466-3BA649ECCE9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRR">
+      <UniqueIdentifier>{BB76E2B8-7613-3989-8EB3-B54C7900618B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRRMESH">
+      <UniqueIdentifier>{65D77E23-D802-38C6-8913-6C21188ADC5F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IrrXML">
+      <UniqueIdentifier>{ED31C57C-2189-34BE-9896-DDC8E62AB79D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWO">
+      <UniqueIdentifier>{FAB5D2F7-D648-32EA-98B1-3D87AAC9DCC7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWS">
+      <UniqueIdentifier>{58A48F42-82AA-3B1B-87B1-5347E3EAA965}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{BE1C34A6-F45D-3F28-897B-7737053750AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD2">
+      <UniqueIdentifier>{B2ECC242-B155-3CD6-B196-AE60B410F3C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD3">
+      <UniqueIdentifier>{1127060F-61EA-314C-AADD-D72D57FE11D1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD5">
+      <UniqueIdentifier>{525EBFFF-A176-37E8-AE88-92091BC8B9AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDC">
+      <UniqueIdentifier>{01FD5B30-03C8-3C72-90C0-6F37D8B70825}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDL">
+      <UniqueIdentifier>{01DC1C3E-2C05-3FCB-8F5A-5C8A5063CBE4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MMD">
+      <UniqueIdentifier>{124196FE-A9BC-36DC-A510-279781C9F8DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MS3D">
+      <UniqueIdentifier>{9613F996-133F-3B91-A73C-4C58BF33279C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{FDE0561C-C4C0-3FCB-89B8-CA09A48D24F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NDO">
+      <UniqueIdentifier>{64FB6A1E-315A-3899-BE73-4D477B07DDFF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFF">
+      <UniqueIdentifier>{C4BA2387-8D1F-33E1-8E8D-DBEBBFF67C94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ">
+      <UniqueIdentifier>{52B2F7D5-CF62-38DC-9108-01D19341E1AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ_EXPORTER">
+      <UniqueIdentifier>{AC9F88E1-3F14-3D97-9C35-676DF80B5767}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OFF">
+      <UniqueIdentifier>{37363C3F-5845-30CC-B6B5-1E1777D6E6F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OGRE">
+      <UniqueIdentifier>{CCC98AB9-B175-33BB-8241-E05C8E19AB73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX">
+      <UniqueIdentifier>{B34D040C-AC9C-3BFE-B34F-979A8396F712}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX_EXPORTER">
+      <UniqueIdentifier>{31328A08-9CD1-3837-800B-C6D157BFFFFF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY">
+      <UniqueIdentifier>{7934ADA4-5D9F-37B0-9252-E36BA25D17FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY_EXPORTER">
+      <UniqueIdentifier>{07D29A68-4C6B-3124-849C-A2C466C247CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{DE9FEC62-A26E-32C4-B3D5-C1E3B3216644}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3BSP">
+      <UniqueIdentifier>{617DB26C-3283-3B80-B418-B837064981E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3D">
+      <UniqueIdentifier>{BCE707C1-DD71-3621-9885-4E1DFBBE5500}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RAW">
+      <UniqueIdentifier>{85620581-56CD-37EA-9E1D-0F0151F8903D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SIB">
+      <UniqueIdentifier>{E5997BAB-3376-341D-95C7-FF099BE17C13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SMD">
+      <UniqueIdentifier>{1202D692-635F-30DA-88E1-A365B993FC60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEP">
+      <UniqueIdentifier>{95BD5F0B-6AF9-3A25-A658-B203D91676F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPParser">
+      <UniqueIdentifier>{41BC11AD-0C68-3EC6-AC99-6D4BBD6CB4C7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEP_EXPORTER">
+      <UniqueIdentifier>{848AEF02-1DE6-37C7-BB46-2D2E98525C61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{D1EC411F-7E7C-3255-AF88-84E473F9A407}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL_EXPORTER">
+      <UniqueIdentifier>{C7CCB319-4B71-3CDA-9AD7-39F126E24F22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FFB9DCF4-6A10-3C9B-978A-A86EB4CB8D13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TERRAGEN">
+      <UniqueIdentifier>{118E19C1-C824-3B5D-A6DF-1FC47816E847}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X">
+      <UniqueIdentifier>{705C9A3B-5765-3A1D-8584-98DF74E25136}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D">
+      <UniqueIdentifier>{2377E06B-449C-3E83-9DDD-955D69B6B595}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D_EXPORTER">
+      <UniqueIdentifier>{C6261865-AD75-3440-9748-90ED2D4E2EA8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGL">
+      <UniqueIdentifier>{69D4FDE3-8CD5-3361-827E-F44DF29EA49A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X_EXPORTER">
+      <UniqueIdentifier>{046FCE49-3AA4-31A4-A87F-DDC17B7E1322}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ziplib">
+      <UniqueIdentifier>{6148F603-7A6B-3FAC-8388-D1AD6B14D69F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

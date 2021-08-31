@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{E116F378-5362-3965-A646-6249CD59F352}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\.;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\.;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\.;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\include;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\code;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\.;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0/contrib/zlib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\bin\cmake.exe -SD:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0 -BD:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0 --check-stamp-file D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0/contrib/zlib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\CMakeFiles\CheckTypeSize\OFF64_T.c;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\zconf.h.cmakein;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\zlib.pc.cmakein;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckCSourceCompiles.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckFunctionExists.c;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckFunctionExists.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFile.c.in;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFile.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFileCXX.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckTypeSize.c.in;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckTypeSize.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0/contrib/zlib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\bin\cmake.exe -SD:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0 -BD:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0 --check-stamp-file D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0/contrib/zlib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\CMakeFiles\CheckTypeSize\OFF64_T.c;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\zconf.h.cmakein;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\zlib.pc.cmakein;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckCSourceCompiles.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckFunctionExists.c;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckFunctionExists.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFile.c.in;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFile.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFileCXX.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckTypeSize.c.in;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckTypeSize.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0/contrib/zlib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\bin\cmake.exe -SD:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0 -BD:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0 --check-stamp-file D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0/contrib/zlib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\CMakeFiles\CheckTypeSize\OFF64_T.c;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\zconf.h.cmakein;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\zlib.pc.cmakein;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckCSourceCompiles.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckFunctionExists.c;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckFunctionExists.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFile.c.in;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFile.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFileCXX.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckTypeSize.c.in;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckTypeSize.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0/contrib/zlib/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\bin\cmake.exe -SD:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0 -BD:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0 --check-stamp-file D:/Programs/UE_4.24/Projects/ar-personal-trainer/thirdparty/Assimp/Win32/assimp-5.0.0/contrib/zlib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\CMakeFiles\CheckTypeSize\OFF64_T.c;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\zconf.h.cmakein;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\zlib.pc.cmakein;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckCSourceCompiles.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckFunctionExists.c;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckFunctionExists.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFile.c.in;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFile.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckIncludeFileCXX.cmake;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckTypeSize.c.in;D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\cmake-3.17.2-win64-x64\share\cmake-3.17\Modules\CheckTypeSize.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\ZERO_CHECK.vcxproj">
+      <Project>{E0BC95CA-232A-3FC3-B915-EF9EAD1A8886}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\zlib.vcxproj">
+      <Project>{8470A892-746F-3199-B813-8AEC6AC7D897}</Project>
+      <Name>zlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\Programs\UE_4.24\Projects\ar-personal-trainer\thirdparty\Assimp\Win32\assimp-5.0.0\contrib\zlib\zlibstatic.vcxproj">
+      <Project>{59D673E7-F36A-3F2F-B76B-9241D8BFCE70}</Project>
+      <Name>zlibstatic</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
